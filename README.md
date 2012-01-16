@@ -13,9 +13,9 @@ http://harvesthq.github.com/chosen
 [Website](http://www.cuvedev.net)
 
 CHANGES:
-	- dont hide results by moving left out of the viewport, really hide it
-	- option to hide search (options.search_enabled)
-	- option for extra classes for option object (options.search_at_start)
+- dont hide results by moving left out of the viewport, really hide it
+- option to hide search (options.search_enabled)
+- option for extra classes for option object (options.search_at_start)
  
 
 ### Contributing to Chosen

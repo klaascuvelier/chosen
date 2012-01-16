@@ -8,6 +8,16 @@ Chosen is a library for making long, unwieldy select boxes more user friendly.
 For documentation, usage, and examples, see:  
 http://harvesthq.github.com/chosen
 
+
+### Fork by Klaas Cuvelier
+[Website](http://www.cuvedev.net)
+
+CHANGES:
+	- dont hide results by moving left out of the viewport, really hide it
+	- option to hide search (options.search_enabled)
+	- option for extra classes for option object (options.search_at_start)
+ 
+
 ### Contributing to Chosen
 
 Contributions and pull requests are very welcome. Please follow these guidelines when submitting new code.

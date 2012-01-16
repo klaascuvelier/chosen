@@ -10,7 +10,6 @@
 // 
 // CHANGES:
 // - dont hide results by moving left out of the viewport, really hide it
-// - optimised search: option to search only from beginning of the label
 // - option to hide search                        - options.search_enabled
 // - option for extra classes for option object   - options.search_at_start
 // 

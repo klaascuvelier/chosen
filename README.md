@@ -10,13 +10,7 @@ http://harvesthq.github.com/chosen
 
 
 ### Fork by Klaas Cuvelier
-[Website](http://www.cuvedev.net)
-
-CHANGES
-
-1. don't hide results by moving left out of the viewport, really hide it
-2. option to hide search (options.search_enabled)
-3. option for extra classes for option object (options.search_at_start)
+[Website](http://www.cuvedev.net), [fork](https://github.com/klaascuvelier/chosen)
  
 
 ### Contributing to Chosen

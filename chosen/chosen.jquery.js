@@ -965,6 +965,7 @@
         this.form_field_jq.append('<option value="' + new_item + '">' + new_item + '</li>');
         this.results_update_field();
 
+        this.form_field_jq.trigger('new-item');
         this.dropdown.find('li[title="' + new_item + '"]').trigger('mouseup');
     };
 
